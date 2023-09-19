@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Terreno
   - Trofeo
+  - Cherrie
   layers:
   - Default
   - TransparentFX

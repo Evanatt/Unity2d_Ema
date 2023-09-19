@@ -10,6 +10,8 @@ public class jugarvirtualboy : MonoBehaviour
     public Rigidbody2D rig;
     Animator anim;
     public bool grounded = false;
+    public int cerezas = 5;
+
 
     // Update is called once per frame
     private void Start()
