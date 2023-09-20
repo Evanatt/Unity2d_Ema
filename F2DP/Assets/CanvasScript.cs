@@ -11,8 +11,5 @@ public class CanvasScript : MonoBehaviour
     void Update()
     {
         contador.text = "cerezas: " + BOY.cerezas;
-
-
-
-     }
+    }
 }

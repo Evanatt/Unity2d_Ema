@@ -12,7 +12,7 @@ public class Cherriesscript : MonoBehaviour
         {
             other.gameObject.GetComponent<jugarvirtualboy>().cerezas -=1;
             Anim.SetBool("Collect",true);
-            Destroy(gameObject,0.5f);
+            Destroy(gameObject,0.3f);
         }
         // Destroy(gameObject);
     }
