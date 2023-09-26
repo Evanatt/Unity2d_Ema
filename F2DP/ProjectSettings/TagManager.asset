@@ -7,6 +7,8 @@ TagManager:
   - Terreno
   - Trofeo
   - Cherrie
+  - Puerta
+  - Salir
   layers:
   - Default
   - TransparentFX
